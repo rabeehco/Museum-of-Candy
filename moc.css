@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(255, 202, 211);
+    font-family: "Nunito", sans-serif;
+}
+
+#navbar-main .navbar-brand{
+    color: red;
+}
+
+#navbar-main .nav-link{
+    color: white;
+}
+#navbar-main .nav-link:hover{
+    color: red;
+    transition: 1s;
+}
+
+#navbar-main{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+/* Editing The text of museum/of/candy text */
+.first-block #first-text-poster h2{
+    font-size: 38px;
+    font-stretch: ultra-expanded;
+}
+
+.first-block #first-text-poster span{
+    color: red;
+}
+#first-section-text span{
+        color: red;
+}
+#first-section-text h2{
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+}
+
+.second-section-text h2{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.second-section-text p{
+    color: #f498b8;
+    font-size: 1.125rem;
+}
+ @media (max-width: 991px){
+    .second-section-text{
+        margin-top: 20px;
+    }
+
+    .second-section-para{
+        padding: 50px;
+    }
+}
