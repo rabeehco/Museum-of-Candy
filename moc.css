@@ -47,9 +47,9 @@ body{
     font-size: 1.125rem;
 }
  @media (max-width: 991px){
-    .second-section-text{
+    /* .second-section-text{
         margin-top: 20px;
-    }
+    } */
 
     .second-section-para{
         padding: 50px;
