@@ -7,6 +7,7 @@ body{
     color: red;
 }
 
+
 #navbar-main .nav-link{
     color: white;
 }
@@ -20,7 +21,7 @@ body{
     font-weight: 100;
 }
 
-/* Editing The text of museum/of/candy text */
+
 .first-block #first-text-poster h2{
     font-size: 38px;
     font-stretch: ultra-expanded;
@@ -45,13 +46,4 @@ body{
 .second-section-text p{
     color: #f498b8;
     font-size: 1.125rem;
-}
- @media (max-width: 991px){
-    /* .second-section-text{
-        margin-top: 20px;
-    } */
-
-    .second-section-para{
-        padding: 50px;
-    }
 }
