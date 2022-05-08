@@ -1,5 +1,5 @@
 var navbar = document.getElementById('navbar-main')
-history.scrollRestoration = "manual"
+// history.scrollRestoration = "manual"
 window.addEventListener('scroll', (e) => {  
    
     if(window.scrollY==0){
